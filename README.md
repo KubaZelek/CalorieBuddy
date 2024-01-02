@@ -1,5 +1,5 @@
 
-#🔥🔥🔥 CalorieBuddy - aplikacja desktopowa pomagająca liczyć kalorie 🔥🔥🔥
+# 🔥🔥🔥 CalorieBuddy - aplikacja desktopowa pomagająca liczyć kalorie 🔥🔥🔥
 
 
 ## CalorieBuddy wykorzystuje bazę danych w celu zapisywania i śledzenia indywidualnego postępu użytkownika w ustalonym wcześniej celu. 🥦🥗🍖
